@@ -15,7 +15,7 @@ public class Areas {
         System.out.println("Triangle Height: ");
         int c =input.nextInt();
         System.out.println("Enter a Square Side: ");
-        int a =input.nextInt();
+        int s =input.nextInt();
         
         
         double circle = Math.PI*Math.pow(r,2);
