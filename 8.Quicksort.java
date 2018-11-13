@@ -1,5 +1,5 @@
 package quicksort;
-//Activity 8 Sorting Algorithm (QuickSort)s
+//Sorting Algorithm
 import java.util.Scanner;
 public class Quicksort {
 static int partition(int arr[], int low, int high){
