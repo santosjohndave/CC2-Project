@@ -18,7 +18,7 @@ public class Array {
 }  
 }  
       
-        for(int b=0;b<array1.length;a++){  
+        for(int b=0;b<array1.length;b++){  
             if(array1[b]%2==0){  
             System.out.println(array1[b]);
             
